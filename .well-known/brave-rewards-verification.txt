@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: marcokaltwasser.com
+Token: dbbebfdc4c3fcab37a8b1ca33aef19641a8ada599c999afdbc8b5203ee943565
